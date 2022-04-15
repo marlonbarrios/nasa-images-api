@@ -19,7 +19,19 @@ body {
   margin-top: 5px;
   margin-bottom: 25px;
 }
+.footer {
 
+  padding-right: 15px;
+padding-left: 15px;
+right: 0;
+bottom: 0;
+
+}
+
+.footer a {
+  color: black;
+  
+}
 /* Loader */
 .loader {
   background: whitesmoke;
